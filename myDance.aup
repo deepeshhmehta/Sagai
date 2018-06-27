@@ -1,0 +1,267 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="myDance_data" version="1.3.0" audacityversion="2.2.2" sel0="111.4136906999" sel1="111.4136906999" vpos="112" h="28.6597665903" zoom="10.8514491568" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="Top 6 dialogue of movie DON 2006  SHAH RUKH KHAN" channel="0" linked="1" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="192713">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000e73.au" len="192713" min="-0.447451" max="0.532765" rms="0.098974"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Top 6 dialogue of movie DON 2006  SHAH RUKH KHAN" channel="1" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="192713">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000030.au" len="192713" min="-0.451805" max="0.541771" rms="0.099646"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Dabangg 2 Official Theatrical Trailer _ Salman Khan_ Sonakshi Sinha" channel="0" linked="1" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="4.36990930" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="430654">
+				<waveblock start="0">
+					<simpleblockfile filename="e00003c1.au" len="143014" min="-0.730771" max="0.807869" rms="0.123526"/>
+				</waveblock>
+				<waveblock start="143014">
+					<simpleblockfile filename="e00002e0.au" len="143820" min="-0.922891" max="0.939051" rms="0.247624"/>
+				</waveblock>
+				<waveblock start="286834">
+					<simpleblockfile filename="e000065e.au" len="143820" min="-0.837184" max="0.872714" rms="0.214199"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Dabangg 2 Official Theatrical Trailer _ Salman Khan_ Sonakshi Sinha" channel="1" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="4.36990930" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="430654">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000e96.au" len="143014" min="-0.850628" max="0.859513" rms="0.158216"/>
+				</waveblock>
+				<waveblock start="143014">
+					<simpleblockfile filename="e0000107.au" len="143820" min="-0.908518" max="0.952745" rms="0.256159"/>
+				</waveblock>
+				<waveblock start="286834">
+					<simpleblockfile filename="e0000a7e.au" len="143820" min="-0.847946" max="0.886063" rms="0.212826"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="R...Rajkumar - Official Theatrical Trailer _ Shahid Kapoor_ Sonakshi Sinha_ Sonu" channel="0" linked="1" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="14.13530612" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="197854">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000306.au" len="197854" min="-0.943174" max="0.951314" rms="0.230633"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="R...Rajkumar - Official Theatrical Trailer _ Shahid Kapoor_ Sonakshi Sinha_ Sonu" channel="1" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="14.13530612" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="197854">
+				<waveblock start="0">
+					<simpleblockfile filename="e00007e5.au" len="197854" min="-0.956721" max="0.953738" rms="0.219901"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Gandi Baat Song ft. Shahid Kapoor_ Prabhu Dheva &amp; Sonakshi Sinha _ R...Rajkumar" channel="0" linked="1" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="18.62179138" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1596519">
+				<waveblock start="0">
+					<simpleblockfile filename="e00023aa.au" len="132774" min="-0.621504" max="0.605471" rms="0.147155"/>
+				</waveblock>
+				<waveblock start="132774">
+					<simpleblockfile filename="e000247e.au" len="132774" min="-0.635764" max="0.683139" rms="0.156397"/>
+				</waveblock>
+				<waveblock start="265548">
+					<simpleblockfile filename="e000289d.au" len="140163" min="-0.646627" max="0.632281" rms="0.160937"/>
+				</waveblock>
+				<waveblock start="405711">
+					<simpleblockfile filename="e0001c65.au" len="262144" min="-0.793599" max="0.676065" rms="0.150978"/>
+				</waveblock>
+				<waveblock start="667855">
+					<simpleblockfile filename="e0001adb.au" len="262144" min="-0.708162" max="0.728379" rms="0.159573"/>
+				</waveblock>
+				<waveblock start="929999">
+					<simpleblockfile filename="e0001793.au" len="262144" min="-0.662207" max="0.675726" rms="0.157133"/>
+				</waveblock>
+				<waveblock start="1192143">
+					<simpleblockfile filename="e0001d1a.au" len="262144" min="-0.746439" max="0.695555" rms="0.173752"/>
+				</waveblock>
+				<waveblock start="1454287">
+					<simpleblockfile filename="e0002e8f.au" len="142232" min="-0.716931" max="0.664302" rms="0.180342"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Gandi Baat Song ft. Shahid Kapoor_ Prabhu Dheva &amp; Sonakshi Sinha _ R...Rajkumar" channel="1" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="18.62179138" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1596519">
+				<waveblock start="0">
+					<simpleblockfile filename="e00026ee.au" len="132774" min="-0.628711" max="0.618211" rms="0.137493"/>
+				</waveblock>
+				<waveblock start="132774">
+					<simpleblockfile filename="e0002349.au" len="132774" min="-0.662498" max="0.626446" rms="0.153221"/>
+				</waveblock>
+				<waveblock start="265548">
+					<simpleblockfile filename="e00021c0.au" len="140163" min="-0.624226" max="0.621664" rms="0.150711"/>
+				</waveblock>
+				<waveblock start="405711">
+					<simpleblockfile filename="e0001f42.au" len="262144" min="-0.678159" max="0.662193" rms="0.152377"/>
+				</waveblock>
+				<waveblock start="667855">
+					<simpleblockfile filename="e0001d91.au" len="262144" min="-0.653711" max="0.681505" rms="0.157196"/>
+				</waveblock>
+				<waveblock start="929999">
+					<simpleblockfile filename="e00015f8.au" len="262144" min="-0.687132" max="0.690703" rms="0.146152"/>
+				</waveblock>
+				<waveblock start="1192143">
+					<simpleblockfile filename="e0001847.au" len="262144" min="-0.651504" max="0.669103" rms="0.17088"/>
+				</waveblock>
+				<waveblock start="1454287">
+					<simpleblockfile filename="e000202a.au" len="142232" min="-0.680591" max="0.675933" rms="0.176116"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Malhari Full Video Song _ Bajirao Mastani" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="54.82403628" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1933309">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000b47.au" len="148347" min="-0.994557" max="0.977815" rms="0.243896"/>
+				</waveblock>
+				<waveblock start="148347">
+					<simpleblockfile filename="e0000c47.au" len="148348" min="-1.000832" max="1.005879" rms="0.2172"/>
+				</waveblock>
+				<waveblock start="296695">
+					<simpleblockfile filename="e000083a.au" len="262144" min="-1.009099" max="1.025434" rms="0.193028"/>
+				</waveblock>
+				<waveblock start="558839">
+					<simpleblockfile filename="e0000333.au" len="262144" min="-0.989916" max="1.000374" rms="0.225902"/>
+				</waveblock>
+				<waveblock start="820983">
+					<simpleblockfile filename="e0000a98.au" len="262144" min="-0.982824" max="0.921999" rms="0.2152"/>
+				</waveblock>
+				<waveblock start="1083127">
+					<simpleblockfile filename="e000056d.au" len="262144" min="-1.039177" max="1.025231" rms="0.242178"/>
+				</waveblock>
+				<waveblock start="1345271">
+					<simpleblockfile filename="e00000a9.au" len="262144" min="-1.102754" max="1.091118" rms="0.282017"/>
+				</waveblock>
+				<waveblock start="1607415">
+					<simpleblockfile filename="e0000381.au" len="162947" min="-1.109834" max="1.087152" rms="0.268398"/>
+				</waveblock>
+				<waveblock start="1770362">
+					<simpleblockfile filename="e0000ff6.au" len="162947" min="-1.022064" max="1.207663" rms="0.233937"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="98.66324263" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="830517">
+				<waveblock start="0">
+					<simpleblockfile filename="e000038b.au" len="171578" min="-1.044738" max="1.068535" rms="0.252103"/>
+				</waveblock>
+				<waveblock start="171578">
+					<simpleblockfile filename="e0000c95.au" len="262144" min="-1.081024" max="1.059326" rms="0.262226"/>
+				</waveblock>
+				<waveblock start="433722">
+					<simpleblockfile filename="e0000044.au" len="262144" min="-1.024796" max="1.092711" rms="0.264678"/>
+				</waveblock>
+				<waveblock start="695866">
+					<simpleblockfile filename="e0000320.au" len="134651" min="-1.022307" max="1.172328" rms="0.248677"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Malhari Full Video Song _ Bajirao Mastani" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="54.82403628" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1933309">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000823.au" len="148347" min="-0.994557" max="0.976086" rms="0.243896"/>
+				</waveblock>
+				<waveblock start="148347">
+					<simpleblockfile filename="e0000d29.au" len="148348" min="-1.000832" max="1.005879" rms="0.217203"/>
+				</waveblock>
+				<waveblock start="296695">
+					<simpleblockfile filename="e0000a02.au" len="262144" min="-1.009099" max="1.025434" rms="0.193028"/>
+				</waveblock>
+				<waveblock start="558839">
+					<simpleblockfile filename="e0000bf4.au" len="262144" min="-0.989916" max="1.000374" rms="0.225902"/>
+				</waveblock>
+				<waveblock start="820983">
+					<simpleblockfile filename="e000032a.au" len="262144" min="-0.982824" max="0.921999" rms="0.215201"/>
+				</waveblock>
+				<waveblock start="1083127">
+					<simpleblockfile filename="e0000f25.au" len="262144" min="-1.039177" max="1.025231" rms="0.242178"/>
+				</waveblock>
+				<waveblock start="1345271">
+					<simpleblockfile filename="e000019c.au" len="262144" min="-1.102754" max="1.091118" rms="0.282017"/>
+				</waveblock>
+				<waveblock start="1607415">
+					<simpleblockfile filename="e0000319.au" len="162947" min="-1.109834" max="1.087152" rms="0.268398"/>
+				</waveblock>
+				<waveblock start="1770362">
+					<simpleblockfile filename="e00004e9.au" len="162947" min="-1.022064" max="1.207663" rms="0.233937"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="98.66324263" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="830517">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000417.au" len="171578" min="-1.044738" max="1.068535" rms="0.252103"/>
+				</waveblock>
+				<waveblock start="171578">
+					<simpleblockfile filename="e0000f67.au" len="262144" min="-1.05966" max="1.059326" rms="0.262225"/>
+				</waveblock>
+				<waveblock start="433722">
+					<simpleblockfile filename="e0000989.au" len="262144" min="-1.024796" max="1.092711" rms="0.264678"/>
+				</waveblock>
+				<waveblock start="695866">
+					<simpleblockfile filename="e0000f4d.au" len="134651" min="-1.022307" max="1.172328" rms="0.248675"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Glass Breaking Sound Effect _ Royalty Free Sound Effects  _ Sound Effects _ Good" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="117.49582766" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="314496">
+				<waveblock start="0">
+					<simpleblockfile filename="e000078f.au" len="262144" min="-0.72981" max="0.770682" rms="0.071131"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000d05.au" len="52352" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Glass Breaking Sound Effect _ Royalty Free Sound Effects  _ Sound Effects _ Good" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="117.49582766" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="314496">
+				<waveblock start="0">
+					<simpleblockfile filename="e000045f.au" len="262144" min="-0.69338" max="0.770016" rms="0.070657"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000f24.au" len="52352" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
